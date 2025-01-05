@@ -33,11 +33,9 @@ Run the following command:
 python -m venv venv
 ```
 Activate the Virtual Environment
-Navigate to the venv folder:
+
 ```
-cd venv
-cd Scripts
-activate
+venv\Scripts\activate
 ```
 Install Required Libraries
 From within the virtual environment, install dependencies:
